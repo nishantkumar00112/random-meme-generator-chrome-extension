@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Random Meme Generator",
+  "version": "1.0",
+  "description": "Generate and display random memes.",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon-16.jpg",
+      "48": "icon-48.jpg",
+      "128": "icon-128.jpg"
+    }
+  },
+  "icons": {
+    "16": "icon-16.jpg",
+    "48": "icon-48.jpg",
+    "128": "icon-128.jpg"
+  }
+}
