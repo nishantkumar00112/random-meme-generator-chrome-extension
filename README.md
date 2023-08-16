@@ -2,6 +2,8 @@
 
 **Project Name:** Random Meme Generator Chrome Extension
 
+https://github.com/nishantkumar00112/random-meme-generator-chrome-extension/assets/97521348/0d30528b-865e-4af5-960f-5ae8af281c92
+
 **Description:** This project involves creating a Chrome extension that generates and displays random memes when a "Generate Meme" button is clicked. The extension utilizes an external API to fetch meme URLs and then presents them in a popup window.
 
 **Files and Components:**
